@@ -26,9 +26,9 @@ It would then seem there are still application areas to explore in robotics, and
 
 **IMPORTANT DATES**
 
-- Submission deadline: May 31, 2020
-- Review notification: June 30, 2020
-- Camera ready: July 17, 2020
+- Submission deadline: June 29, 2020
+- Review notification: July 27, 2020
+- Camera ready: August 17, 2020
 - Workshop: September 13 (half day)
 
 
@@ -71,12 +71,12 @@ Participants are invited to submit original short papers (from 4 to 6 pages + re
 
 Papers presenting initial or ongoing research are welcome; so are position papers delineating robotics problems and/or discussing the suitability of knowlege engineering approaches to solve such problems.
 
-All the contributions to the workshop must be submitted according to the LNCS format and must comply with the LNCS formatting guidelines available at [http://www.springer.com/series/7899](http://www.springer.com/series/7899). Submitted papers must not exceed 6 pages (not including references).
+All the contributions to the workshop must be submitted according to the IOS press format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/). Submitted papers must not exceed 6 pages (not including references).
 
 Papers will be refereed and accepted on the basis of their scientific merit, originality, and relevance to the workshop. Each paper will be reviewed by two Program Committee members.
 
 Papers must be submitted electronically in PDF, using this link: 
-- [http://easychair.org/conferences/?conf=jowo2020](http://easychair.org/conferences/?conf=jowo2020)
+- [https://easychair.org/conferences/?conf=jowo2020](https://easychair.org/conferences/?conf=jowo2020)
 
 
 **PUBLICATION**
