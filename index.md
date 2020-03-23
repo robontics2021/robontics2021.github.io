@@ -77,4 +77,4 @@ Accepted contributions to the workshop will be published in an open access CEUR 
 
 
 
-(Banner image is provided by Francoise Foliot to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Foliot_-_Machine_%C3%A0_calculer_de_Pascal.jpg) under the CC-BY-SA 4.0 license.)
+(Banner image is provided by Françoise Foliot to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Foliot_-_Machine_%C3%A0_calculer_de_Pascal.jpg) under the CC-BY-SA 4.0 license.)
