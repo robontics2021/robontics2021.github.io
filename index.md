@@ -35,17 +35,20 @@ It would then seem there are still application areas to explore in robotics, and
 
 Participants are invited to submit original short papers (from 4 to 6 pages + references) for oral presentation, on topics such as:
 
+- Foundational issues:
+	- are there ontological approaches better suited than others for autonomous robotics? why?
+	- how should we ontologically model notions like capability, action, interaction, context etc. in robotics?
 - Robustness:
-	- how can we make robots cope with the variety and relatively fluid structure of human environments?
+	- how can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
+- Interactivity:
+	- how can knowledge about other agents present in the environment be modelled?
+	- how should we ontologically model the flow of an interaction, such as a conversation or shared task?
 - Normed behavior:
-	- how can one represent, and act according to, norms on behavior such as cultural expectations?
+	- how should we ontologically represent, and have a robot act according to, norms on behavior such as cultural expectations?
 	- how can these expectations be acquired, and would they be the same for robots as they are for humans?
 - Explainability:
 	- decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
-	- what is a good explanation, and how can one generate it?
-- Interactivity:
-	- how can knowledge about other agents present in the environment be modelled?
-	- how can one model the flow of an interaction, such as a conversation or shared task?
+	- what, ontologically, is an explanation? what is a good explanation, and how can one be generated from a collection of knowledge items?
 
 
 **WORKSHOP CO-CHAIRS**
