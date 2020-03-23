@@ -9,6 +9,7 @@ header:
 ---
 
 International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [Bolzano Summer of Knowledge (BOSK 2020)](https://summerofknowledge.inf.unibz.it/), September 13, Bolzano, Italy
+
 [FOIS 2020](https://fois2020.inf.unibz.it/)
 
 
