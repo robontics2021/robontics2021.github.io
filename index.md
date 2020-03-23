@@ -37,7 +37,7 @@ It would then seem there are still application areas to explore in robotics, and
 Participants are invited to submit original short papers (from 4 to 6 pages + references) for oral presentation, on topics such as:
 
 - Foundational issues:
-	- are there ontological approaches better suited than others for autonomous robotics? why?
+	- are there some ontological approaches better suited than others for autonomous robotics? why?
 	- how should we ontologically model notions like capability, action, interaction, context etc. in robotics?
 - Robustness:
 	- how can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
