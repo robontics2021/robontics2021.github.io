@@ -74,3 +74,7 @@ Papers must be submitted electronically in PDF, using this link:
 **PUBLICATION**
 
 Accepted contributions to the workshop will be published in an open access CEUR volume as part of the new IAOA series (see [http://ceur-ws.org/iaoa.html](http://ceur-ws.org/iaoa.html)).
+
+
+
+(Banner image is provided by Francoise Foliot to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Foliot_-_Machine_%C3%A0_calculer_de_Pascal.jpg) under the CC-BY-SA 4.0 license.)
