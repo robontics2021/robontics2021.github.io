@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [FOIS 2020](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2020)](https://summerofknowledge.inf.unibz.it/), September 13, Bolzano, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [FOIS 2020](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2020)](https://summerofknowledge.inf.unibz.it/), Sept. 13, Bolzano, Italy
 
 
 
