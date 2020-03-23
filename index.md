@@ -44,7 +44,7 @@ Participants are invited to submit original short papers (from 4 to 6 pages + re
 	- how can knowledge about other agents present in the environment be modelled?
 	- how should we ontologically model the flow of an interaction, such as a conversation or shared task?
 - Normed behavior:
-	- how should we ontologically represent, and have a robot act according to, norms on behavior such as cultural expectations?
+	- how should we ontologically represent, and then have a robot act according to, norms on behavior such as cultural expectations?
 	- how can these expectations be acquired, and would they be the same for robots as they are for humans?
 - Explainability:
 	- decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
