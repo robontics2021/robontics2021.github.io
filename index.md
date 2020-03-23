@@ -41,6 +41,9 @@ Participants are invited to submit original short papers (from 4 to 6 pages + re
 	- how should we ontologically model notions like capability, action, interaction, context etc. in robotics?
 - Robustness:
 	- how can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
+- Robotic manipulation:
+	- what roles can ontology play in autonomous manipulation? 
+	- how can we help robots autonomously cope with manipulation problems using ontology?
 - Interactivity:
 	- how can knowledge about other agents present in the environment be modelled?
 	- how should we ontologically model the flow of an interaction, such as a conversation or shared task?
