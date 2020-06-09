@@ -34,7 +34,7 @@ It would then seem there are still application areas to explore in robotics, and
 
 - Submission deadline: August 7, 2020
 - Notification: August 25, 2020
-- Camera ready: September 21, 2020
+- Camera ready: September 1, 2020
 - Workshop: September 13 (half day), 2021
 
 
