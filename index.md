@@ -13,22 +13,18 @@ International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-The FOIS2020 conference is postponed to 2021, however all accepted papers will be published in a volume this year. We have decided to follow a similar procedure for the RobOntics workshop, namely:
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by Aug 7; accepted papers will be published in a ROBONTICS CEUR volume in 2020.
 
--- we encourage researchers interested in the fields of robotics and knowledge engineering to submit papers this year; accepted papers will be published in a CEUR volume;
+Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop.
 
--- the workshop itself will take place next year, together with, we hope, RobOntics2021, where researchers with accepted papers for RobOntics2020 are kindly invited to present them.
+**WORKSHOP MOTIVATION**
 
-**WORKSHOP SCOPE AND AIM**
+ROBONTICS focuses on the area of robot autonomy enabled by knowledge-driven approaches, and in particular formal ontologies. It
+aims to foster interaction across robotics, ontology, and knowledge representation and reasoning, to match open problems to promising approaches, and to review progress in knowledge-driven robotics.
 
-ROBONTICS 2020 is the first edition of a workshop aimed at providing a platform to disseminate research into robot autonomy enabled by knowledge-driven approaches, and in particular formal ontologies. Its purpose is to foster communication between the fields of robotics, ontology, and knowledge representation and reasoning, to match open problems to promising approaches, and to review progress in knowledge-driven robotics.
+Today ontologies are used in robotics and standardization efforts for robotics knowledge management. Many open problems involve autonomous robotic agents operating in natural or human environments, and several research projects in healthcare assistance, logistics, autonomous driving, etc, aim to bring robots into realistic human environments.
 
-Ontologies are a well-established technique for knowledge representation and management. They formalize conceptualizations at a symbolic, communicable level, allowing re-use of knowledge items between different modules or even agents, as well as explaining reasoning-based decisions. Ontologies have already seen use in robotics, and standardization efforts for robotics knowledge management are in progress. 
-
-Nevertheless, many hard problems remain in robotics, especially involving autonomous robotic agents operating in natural or human environments. Many research projects, motivated by applications in healthcare assistance, logistics, autonomous driving etc, aim to bring robots out of the lab and into realistic human environments. One of the difficulties frustrating such efforts is the large amount of real-world knowledge that an agent needs to have to be able to act competently and autonomously. Further, any item of knowledge is often relevant for many agents and behaviors, and as such should be reusable. To garner trust and enable debugging, knowledge should also be accessible to human operators, both in terms of explaining what knowledge is present in a system, as well as providing ways to easily amend it if necessary.
-
-It would then seem there are still application areas to explore in robotics, and in particular autonomous robotics, for knowledge-enabled and formalized knowledge representation approaches. We are at a point where we can look at previous applications of ontology engineering in robotics to glean lessons from experience, and to consider new knowledge representation and reasoning approaches for new, and even harder problems.
-
+One of the difficulties is the large amount of real-world knowledge that an agent needs to have to be able to act competently and autonomously. Further, any item of knowledge is often relevant for many agents and behaviors, and as such should be reusable. To garner trust and enable debugging, knowledge should also be accessible to human operators, both in terms of explaining what knowledge is present in a system, and of providing ways to easily amend it if necessary.
 
 **IMPORTANT DATES**
 
@@ -38,7 +34,7 @@ It would then seem there are still application areas to explore in robotics, and
 - Workshop: September 13 (half day), 2021
 
 
-**LIST OF TOPICS**
+**LIST OF TOPICS (partial)**
 
 Participants are invited to submit original short papers (from 4 to 6 pages + references) for oral presentation, including, but not limited to, topics such as:
 
@@ -62,15 +58,15 @@ Participants are invited to submit original short papers (from 4 to 6 pages + re
 	- what, ontologically, is an explanation? what is a good explanation, and how can one be generated from a collection of knowledge items?
 
 
-**WORKSHOP CO-CHAIRS**
+**WORKSHOP CO-CHAIRS (alphabetical order)**
 
-- Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Trento, Italy
-- Aldo Gangemi, University of Bologna and ISTC-CNR, Italy
-- Robert Porzel, Digital Media Lab, University of Bremen, Germany
 - Daniel Beßler, Institute for Artificial Intelligence, University of Bremen, Germany
-- Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany
+- Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Trento, Italy
 - Mohammed Diab, Institute of Industrial and Control Engineering, Universitat Politècnica de Catalunya, Barcelona, Spain
+- Aldo Gangemi, University of Bologna and ISTC-CNR, Italy
 - Alberto Olivares-Alarcos, Institut de Robòtica i Informàtica Industrial (CSIC-UPC), Barcelona, Spain
+- Mihai Pomarlan, Faculty of Linguistics and Literature, University of Bremen, Germany
+- Robert Porzel, Digital Media Lab, University of Bremen, Germany
 
 
 **SUBMISSION INFORMATION**
