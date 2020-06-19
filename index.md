@@ -8,12 +8,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [FOIS 2020->2021](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Sept. 13, Bolzano, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [FOIS 2020->2021](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by Aug 7; accepted papers will be published in a ROBONTICS CEUR volume in 2020.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by Aug 7; accepted papers will be published in a JOWO proceedings volume in 2020.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop.
 
@@ -31,7 +31,7 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 - Submission deadline: August 7, 2020
 - Notification: August 25, 2020
 - Camera ready: September 1, 2020
-- Workshop: September 13 (half day), 2021
+- Workshop: to be announced, 2021
 
 
 **LIST OF TOPICS (partial)**
