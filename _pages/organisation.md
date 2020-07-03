@@ -20,6 +20,7 @@ The 1st RobOntics Workshop is a half-day workshop to be held at the 11th Interna
 - John Bateman, Faculty of Linguistics, University of Bremen, Germany
 - Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany
 - Julita Bermejo, Spain
+- Carlos Hernández Corbato, Department of Cognitive Robotics, Delft University of Technology, Netherlands
 - Sebastian Höffner, Digital Media Lab, Faculty of Informatics, University of Bremen, Germany
 - Oliver Kutz, Faculty of Computer Science, Free University of Bolzano, Italy
 - Antonio Lieto, Dept. of Computer Science, University of Turin, Italy
