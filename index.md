@@ -30,7 +30,7 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 - Submission deadline: August 7, 2020
 - Notification: August 25, 2020
-- Camera ready: September 1, 2020
+- Camera ready: September 2, 2020
 - Workshop: to be announced, 2021
 
 
