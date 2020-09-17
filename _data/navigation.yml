@@ -1,4 +1,6 @@
 main:
+  - title: "Accepted papers"
+    url: /papers/
   - title: "Preliminary programme"
     url: /programme/
   - title: "Organisation"
