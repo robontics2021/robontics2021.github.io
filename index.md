@@ -1,8 +1,8 @@
 ---
-title: 'RobOntics 2020'
+title: 'RobOntics 2021'
 layout: single
 author_profile: false
-excerpt: '1st edition of the Ontologies for Autonomous Robots Workshop'
+excerpt: '2nd edition of the Ontologies for Autonomous Robots Workshop'
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -87,4 +87,4 @@ Accepted contributions to the workshop will be published in an open access CEUR 
 
 
 
-(Banner image is provided by Françoise Foliot to [wikimedia commons](https://commons.wikimedia.org/wiki/File:Fran%C3%A7oise_Foliot_-_Machine_%C3%A0_calculer_de_Pascal.jpg) under the CC-BY-SA 4.0 license.)
+(Banner image belongs to the Science Museum of London and was uploaded to [wikimedia commons](https://upload.wikimedia.org/wikipedia/commons/6/66/Two_experimental_models_for_Babbages_Analytical_Engine%2C_c_1870._%289663806882%29.jpg) under the CC-BY-SA 2.0 license.)
