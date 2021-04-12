@@ -3,6 +3,8 @@ permalink: /programme/
 title: "Preliminary programme"
 ---
 
-Note about the COVID-19 outbreak: the workshop selects and publishes the papers in 2020 as planned but the physical meeting has been postponed to 2021 in coordination with the [FOIS 2020->2021](https://fois2020.inf.unibz.it/) conference.
+The 1st edition of RobOntics will take place during the [FOIS2021 Conference](https://fois2021.inf.unibz.it/) in Bolzano (13-16 September). The exact date of the workshop is to be defined.
 
-We invite researchers interested in the fields of robotics and knowledge engineering to submit papers this year; survey and position papers are especially welcome. Accepted papers will be published in a JOWO proceedings volume, and there is the option of presenting them next year, when the workshop will take place.
+We intend for the workshop to allow both online and physical participation. Of course, we will monitor the ongoing situation of the COVID-19 pandemic and adjust our plans accordingly.
+
+Researchers who have accepted papers at RobOntics 2020 are kindly invited to present their work, and they may also submit newer work for consideration for RobOntics 2021. The papers accepted for RobOntics 2020 have already been published in the JOWO proceedings volume for last year.
