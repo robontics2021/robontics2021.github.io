@@ -3,7 +3,7 @@ permalink: /organisation/
 title: "Organisation"
 ---
 
-The 1st RobOntics Workshop is a half-day workshop to be held at the 11th International Conference on Formal Ontology in Information Systems (FOIS 2020->2021). FOIS 2020->2021 will be held in Bolzano (Italy), in 2021.
+The 2nd RobOntics Workshop is a half-day workshop to be held at the 12th International Conference on Formal Ontology in Information Systems (FOIS 2021). FOIS 2021 will be held in Bolzano (Italy).
 
 **Organisers**
 
