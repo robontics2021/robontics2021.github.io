@@ -8,12 +8,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2020) @ [FOIS 2020->2021](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ [FOIS 2021](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by Aug 7; accepted papers will be published in a JOWO proceedings volume in 2020.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by TBD; accepted papers will be published in a JOWO proceedings volume in 2021.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop.
 
@@ -28,9 +28,9 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 **IMPORTANT DATES**
 
-- Submission deadline: August 7, 2020
-- Notification: August 25, 2020
-- Camera ready: September 2, 2020
+- Submission deadline: TBD, 2021
+- Notification: TBD, 2021
+- Camera ready: TBD, 2021
 - Workshop: to be announced, 2021
 
 
@@ -78,7 +78,7 @@ All the contributions to the workshop must be submitted according to the IOS pre
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance to the workshop. Each paper will be reviewed by at least two Program Committee members.
 
 Papers must be submitted electronically in PDF, using this link: 
-- [https://easychair.org/conferences/?conf=jowo2020](https://easychair.org/conferences/?conf=jowo2020)
+- [https://easychair.org/conferences/?conf=jowo2021](https://easychair.org/conferences/?conf=jowo2021)
 
 
 **PUBLICATION**
