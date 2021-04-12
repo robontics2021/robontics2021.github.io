@@ -37,7 +37,7 @@ include:
   - _pages
   
 exclude:
-  - _pages/accepted
+  - _pages/AcceptedPapers.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
