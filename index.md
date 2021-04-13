@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ [FOIS 2021](https://fois2020.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
+International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ [FOIS 2021](https://fois2021.inf.unibz.it/), part of [Bolzano Summer of Knowledge (BOSK 2021)](https://summerofknowledge.inf.unibz.it/), Bolzano, Italy
 
 
 <span style="color:red">**COVID-19 related update**</span>
@@ -28,15 +28,15 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 
 **IMPORTANT DATES**
 
-- Submission deadline: TBD, 2021
-- Notification: TBD, 2021
-- Camera ready: TBD, 2021
-- Workshop: to be announced, 2021
+- Submission deadline: July 9th, 2021
+- Notification: August 10th, 2021
+- Camera ready: August 23rd, 2021
+- Workshop: September 2021, exact date to be announced
 
 
 **LIST OF TOPICS (partial)**
 
-Participants are invited to submit original short papers (from 4 to 6 pages + references) for oral presentation, including, but not limited to, topics such as:
+Participants are invited to submit original short papers (from 4 to 10 pages + references) for oral presentation, including, but not limited to, topics such as:
 
 - Foundational issues:
 	- are there some ontological approaches better suited than others for autonomous robotics? why?
