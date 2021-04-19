@@ -73,7 +73,7 @@ Participants are invited to submit original short papers (from 4 to 10 pages + r
 
 Papers presenting initial or ongoing research are welcome; so are position and survey papers delineating robotics problems and/or discussing the suitability of knowlege engineering approaches to solve such problems.
 
-All the contributions to the workshop must be submitted according to the IOS press format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/). Submitted papers must not exceed 6 pages (not including references).
+All the contributions to the workshop must be submitted according to the IOS press format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/). Submitted papers must not exceed 10 pages (not including references).
 
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance to the workshop. Each paper will be reviewed by at least two Program Committee members.
 
