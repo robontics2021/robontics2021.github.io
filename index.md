@@ -13,7 +13,7 @@ International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by TBD; accepted papers will be published in a JOWO proceedings volume in 2021.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by July 9th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop.
 
