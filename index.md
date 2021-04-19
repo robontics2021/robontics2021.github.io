@@ -56,6 +56,12 @@ Participants are invited to submit original short papers (from 4 to 10 pages + r
 - Explainability:
 	- decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
 	- what, ontologically, is an explanation? what is a good explanation, and how can one be generated from a collection of knowledge items?
+- Interactivity:
+	- how can model-driven methods play a role in human-robot interaction?
+	- how can ontology-based reasoning play a role in developing trust in Human-Robot Interaction scenarios?
+- Robustness:
+	- is ontology a scalable tool in robotics applications?
+	- what are good benchmarks for robot autonomy?
 
 
 **WORKSHOP CO-CHAIRS (alphabetical order)**
