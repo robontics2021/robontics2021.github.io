@@ -13,7 +13,7 @@ International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit research and position papers by July 9th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5/6 pages) or long (10/12 pages) research papers by July 9th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop, which is planned to be a hybrid (online and, if conditions allow, pysical event).
 
@@ -43,6 +43,8 @@ Participants are invited to submit original short papers (from 4 to 10 pages + r
 	- how should we ontologically model notions like capability, action, interaction, context etc. in robotics?
 - Robustness:
 	- how can ontologies be used to help robots cope with the variety and relatively fluid structure of human environments?
+        - is ontology a scalable tool in robotics applications?
+	- what are good benchmarks for robot autonomy?
 - Ontologies in the perception-action loop:
 	- what roles can ontology play in autonomous manipulation? 
 	- how can we help robots autonomously cope with manipulation problems using ontology?
@@ -50,18 +52,15 @@ Participants are invited to submit original short papers (from 4 to 10 pages + r
 - Interactivity:
 	- how can knowledge about other agents present in the environment be modelled?
 	- how should we ontologically model the flow of an interaction, such as a conversation or shared task?
+        - how can model-driven methods play a role in human-robot interaction?
+	- how can ontology-based reasoning play a role in developing trust in Human-Robot Interaction scenarios?
 - Normed behavior:
 	- how should we ontologically represent, and then have a robot act according to, norms on behavior such as cultural expectations?
 	- how can these expectations be acquired, and would they be the same for robots as they are for humans?
 - Explainability:
 	- decision chains are very complex; how can these be organized and presented at various levels of detail for the benefit of a human user?
 	- what, ontologically, is an explanation? what is a good explanation, and how can one be generated from a collection of knowledge items?
-- Interactivity:
-	- how can model-driven methods play a role in human-robot interaction?
-	- how can ontology-based reasoning play a role in developing trust in Human-Robot Interaction scenarios?
-- Robustness:
-	- is ontology a scalable tool in robotics applications?
-	- what are good benchmarks for robot autonomy?
+	
 
 
 **WORKSHOP CO-CHAIRS (alphabetical order)**
