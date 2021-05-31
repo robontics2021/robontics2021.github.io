@@ -13,7 +13,7 @@ International Workshop on Ontologies for Autonomous Robotics (ROBONTICS 2021) @ 
 
 <span style="color:red">**COVID-19 related update**</span>
 
-We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5/6 pages) or long (10/12 pages) research papers by July 9th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
+We encourage researchers interested in the fields of robotics and knowledge engineering to submit short (5-6 pages) or long (10-12 pages) research papers by July 9th 2021; accepted papers will be published in a JOWO proceedings volume in 2021.
 
 Researchers with accepted papers will be invited to present at the RobOntics 2021 workshop, which is planned to be a hybrid (online and, if conditions allow, pysical event).
 
@@ -78,7 +78,7 @@ Participants are invited to submit original papers for oral presentation, includ
 
 Papers presenting initial or ongoing research are welcome; so are position and survey papers delineating robotics problems and/or discussing the suitability of knowlege engineering approaches to solve such problems.
 
-All the contributions to the workshop must be submitted according to the IOS press format available from [https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/). Submitted papers must not exceed 12 pages for long papers, or 6 pages for short papers (not including references).
+All the contributions to the workshop must be submitted according to the CEUR-Art format available from [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip). Submitted papers must not exceed 12 pages for long papers, or 6 pages for short papers (not including references).
 
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance to the workshop. Each paper will be reviewed by at least two Program Committee members.
 
