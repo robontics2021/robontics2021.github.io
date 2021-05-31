@@ -78,7 +78,7 @@ Participants are invited to submit original papers for oral presentation, includ
 
 Papers presenting initial or ongoing research are welcome; so are position and survey papers delineating robotics problems and/or discussing the suitability of knowlege engineering approaches to solve such problems.
 
-All the contributions to the workshop must be submitted according to the CEUR-Art format available from [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip). Submitted papers must not exceed 12 pages for long papers, or 6 pages for short papers (not including references).
+All the contributions to the workshop must be submitted according to the CEUR-Art format available from [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip). Submitted papers must have 10-12 pages for long papers, or 5-6 pages for short papers (not including references).
 
 Papers will be refereed and accepted on the basis of their merit, originality, and relevance to the workshop. Each paper will be reviewed by at least two Program Committee members.
 
