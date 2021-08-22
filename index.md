@@ -31,7 +31,7 @@ One of the difficulties is the large amount of real-world knowledge that an agen
 - Submission deadline: July 16th, 2021 (extended)
 - Notification: August 10th, 2021
 - Camera ready: August 23rd, 2021
-- Workshop: September 2021, exact date to be announced
+- Workshop: September 17th, 2021
 
 
 **LIST OF TOPICS (partial)**
