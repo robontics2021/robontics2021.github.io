@@ -17,6 +17,8 @@ There is also a DISCORD
 
 Where we have the #knowledge-acquisition channel to use to our liking.
 
+The zoom link will become active a few minutes before the workshop's sessions on September 17th.
+
 The physical location of the workshop will likely be room F6, on the sixth floor of the F-building of the Free University of Bozen-Bolzano. The entrance is at Piazza Università, 1, 39100 Bolzano BZ. Note that you may be asked for proof of full vaccination and required to show the conference tag at the entrance.
 
 Coffee-breaks and lunch will be served at Kolpinghaus on the roof terrace. A tip we've received to minimize travel: when downstairs at level 0 in the university, after passing the glass door, just go left, out in the street, and you will be just across from the Kolpinghaus.
@@ -28,6 +30,8 @@ For those of you present on-site, please do not connect to the Zoom room unless 
 And of course, on-site attendees must wear a face mask at all times while indoors.
 
 We look forward to seeing you at the workshop!
+
+Date: September 17th
 
 MORNING SESSION
 * 09:45-09:55 Welcome
