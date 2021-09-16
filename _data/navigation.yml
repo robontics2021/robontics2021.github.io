@@ -1,7 +1,7 @@
 main:
   #- title: "Accepted papers"
   #  url: /papers/
-  - title: "Preliminary programme"
+  - title: "Programme"
     url: /programme/
   - title: "Organisation"
     url: /organisation/
