@@ -5,7 +5,7 @@ title: "Programme"
 
 For people participating online, the zoom connection details are
 
-https://scientificnet.zoom.us/j/94023487142pwd=c0NYMTVYSllNK0p6Sy9TcGhHVWNHdz09
+[https://scientificnet.zoom.us/j/94023487142pwd=c0NYMTVYSllNK0p6Sy9TcGhHVWNHdz09](https://scientificnet.zoom.us/j/94023487142pwd=c0NYMTVYSllNK0p6Sy9TcGhHVWNHdz09)
 
 ID meeting: 940 2348 7142
 
@@ -13,7 +13,7 @@ Passcode: 298563
 
 There is also a DISCORD
 
-https://discord.gg/He8PcRZu
+[https://discord.gg/He8PcRZu](https://discord.gg/He8PcRZu)
 
 Where we have the #knowledge-acquisition channel to use to our liking.
 
