@@ -3,9 +3,21 @@ permalink: /programme/
 title: "Programme"
 ---
 
-A zoom link will be made available for people participating online; the link will likely be announced on Thursday the 16th. The Zoom call will be opened just before a session starts.
+For people participating online, the zoom connection details are
 
-The location for the RobOntics workshop is yet to be decided in detail but, like other BOSK workshops, will be in a room in either Kolpinghaus Bozen or in the main University building.
+https://scientificnet.zoom.us/j/94023487142pwd=c0NYMTVYSllNK0p6Sy9TcGhHVWNHdz09
+ID meeting: 940 2348 7142
+Passcode: 298563
+
+There is also a DISCORD
+
+https://discord.gg/He8PcRZu
+
+Where we have the #knowledge-acquisition to use to our liking.
+
+The physical location of the workshop will likely be room F6, on the sixth floor of the F-building of the Free University of Bozen-Bolzano. The entrance is at Piazza Università, 1, 39100 Bolzano BZ. Note that you may be asked for proof of full vaccination and required to show the conference tag at the entrance.
+
+Coffee-breaks and lunch will be served at Kolpinghaus on the roof terrace. A tip we've received to minimize travel: when downstairs at level 0 in the university, after passing the glass door, just go left, out in the street, and you will be just across from the Kolpinghaus.
 
 For those of you who present a paper in person, there will be a computer in the workshop room that you can use for your presentation if you so prefer. If you instead prefer to use your own laptop, you must connect it to the workshop's Zoom room and to the beamer in the room.
 
