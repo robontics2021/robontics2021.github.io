@@ -6,14 +6,16 @@ title: "Programme"
 For people participating online, the zoom connection details are
 
 https://scientificnet.zoom.us/j/94023487142pwd=c0NYMTVYSllNK0p6Sy9TcGhHVWNHdz09
+
 ID meeting: 940 2348 7142
+
 Passcode: 298563
 
 There is also a DISCORD
 
 https://discord.gg/He8PcRZu
 
-Where we have the #knowledge-acquisition to use to our liking.
+Where we have the #knowledge-acquisition channel to use to our liking.
 
 The physical location of the workshop will likely be room F6, on the sixth floor of the F-building of the Free University of Bozen-Bolzano. The entrance is at Piazza Università, 1, 39100 Bolzano BZ. Note that you may be asked for proof of full vaccination and required to show the conference tag at the entrance.
 
