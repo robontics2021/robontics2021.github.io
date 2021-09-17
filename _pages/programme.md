@@ -15,7 +15,7 @@ There is also a DISCORD
 
 [https://discord.gg/He8PcRZu](https://discord.gg/He8PcRZu)
 
-Where we have the #knowledge-acquisition channel to use to our liking.
+Where we have the #robontics channel to use to our liking.
 
 The zoom link will become active a few minutes before the workshop's sessions on September 17th.
 
